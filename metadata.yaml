@@ -1,5 +1,5 @@
-homepage: "https://github.com/taggingwise-com/gtm-template-send-to-datalayer"
-documentation: "https://github.com/taggingwise-com/gtm-template-send-to-datalayer/README.md"
+homepage: "https://taggingwise.com"
 versions:
-  - sha: "1697a3d"
-    changeNotes: "Initial release of the custom client."
+  # Latest version
+  - sha: 1697a3d7a49115268ccae9727010714d420375c1
+    changeNotes: Initial release
