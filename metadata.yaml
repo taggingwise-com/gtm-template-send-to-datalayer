@@ -16,5 +16,5 @@ homepage: "https://taggingwise.com"
 documentation: "https://github.com/taggingwise-com/gtm-template-send-to-datalayer/README.md"
 versions:
   # Latest version
-  - sha: 06405a4c28bc8fb75ceb38c70e2345b5789423ae
+  - sha: d656dd50cda838c5dbe7dc5f640f63c2f150cbc1
     changeNotes: Initial release
