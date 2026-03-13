@@ -13,6 +13,7 @@
 # limitations under the License.
 
 homepage: "https://taggingwise.com"
+documentation: "https://github.com/taggingwise-com/gtm-template-send-to-datalayer/README.md"
 versions:
   # Latest version
   - sha: 1697a3d7a49115268ccae9727010714d420375c1
